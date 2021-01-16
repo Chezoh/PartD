@@ -7,6 +7,7 @@ public class Main {
 		String day = "Friday";
 			
 		
-		System.out.println("Hi, my favourite colour is: " + name);
+		System.out.println("Hi, my name is: " + name);
+		System.out.println("My favourite colour is: " + colour);
 	}
 }
